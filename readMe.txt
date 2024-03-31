@@ -26,4 +26,4 @@ stock up on material that will help you later, and blast off into space. The obj
 in order to tell humanity which planets are habitable, and how many people can live there. This is accomplished through a series
 of side games such as rock paper sisscors, trivia, and battles based on probability.
 
-Note: My first modular/encapsulated project EVER utilizing object oriented programming. This was for my first CS class at CU and I think simply think it is a fun thing to share. Please excuse the sloppy coding, i.e. repetative polling, not writing functions where it would be more effecient, trivia answers are not randomly organized etc. Regardless of this, its a fun little game.
+Note: My first modular/encapsulated project EVER utilizing object oriented programming. This was for my first CS class at CU and I simply think it is a fun thing to share. Please excuse the sloppy coding, i.e. repetative polling, not writing functions where it would be more effecient, trivia answers are not randomly organized etc. Regardless of this, its a fun little game.
